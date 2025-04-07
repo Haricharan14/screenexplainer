@@ -3,4 +3,3 @@ google-generativeai
 gTTS
 deep_translator
 Pillow
-streamlit-component-lib
